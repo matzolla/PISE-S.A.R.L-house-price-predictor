@@ -8,7 +8,8 @@ The program is subdivided into two part,
 4. The dependencies used are: *streamlit* and *ngrok* as seen on the jupyter notebook provided in this repo
 
 This is just a prototype ment for fun!!!, enjoy
-*  All have been done on  google colab
+5.  All have been done on  google colab
+6.  The dataset used is available here['https://www.kaggle.com/quantbruce/real-estate-price-prediction']
 
 ## How it works
 * If you want to train the model again, run the jupyter notebook to ubtain the weights for predictions
