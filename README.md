@@ -16,5 +16,3 @@ This is just a prototype ment for fun!!!, enjoy
 * make sure the *app.py* is in thesame directory as the *notebook* 
 * Install all dependencies (numpy,pandas,matplotlib, streamlit,pyngrok)
 
-Enjoy !!!
-
