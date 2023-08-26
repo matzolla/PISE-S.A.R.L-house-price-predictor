@@ -1,4 +1,4 @@
-# PISE-S.A.R.L-house-price-predictor
+# PISE S.A.R.L house-price-predictor
 As an Intern at PISE, My boss asked me to develop a machine learning model to predict the prices of real estate properties,
 So I decided to built one simple linear model which i deployed using streamlit to see how user can have access to it.
 The program is subdivided into two part, 
