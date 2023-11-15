@@ -7,12 +7,9 @@ The program is subdivided into two part,
 2. Save the model to be used on streamlit
 3. Create a simple api to take input from users, and finally deploy an interface with streamlit.
 4. The dependencies used are: *streamlit* and *ngrok* as seen on the jupyter notebook provided in this repo
-```
-
-This is just a prototype ment for fun!!!, enjoy
 5.  All have been done on  google colab
 6.  The dataset used is available in this link: [here](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
-
+```
 ## How it works
 * If you want to train the model again, run the jupyter notebook to ubtain the weights for predictions
 * make sure the *app.py* is in thesame directory as the *notebook* 
