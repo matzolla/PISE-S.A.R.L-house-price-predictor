@@ -13,5 +13,5 @@ The program is subdivided into two part,
 ## How it works
 * If you want to train the model again, run the jupyter notebook to ubtain the weights for predictions
 * make sure the *app.py* is in thesame directory as the *notebook* 
-* Install all dependencies (numpy,pandas,matplotlib, streamlit,pyngrok)
+* Install all dependencies (`numpy,pandas,matplotlib, streamlit,pyngrok`)
 
