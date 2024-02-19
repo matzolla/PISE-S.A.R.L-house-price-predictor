@@ -21,7 +21,8 @@ data=pd.read_csv('Real_estate.csv')
 #having some flavour of the data
 data.head()
 
-"""Here the data set is composed of age of the house,the distance to the nearest station, number of convenient stores, longitude,latitude and the estimated price per unit area"""
+"""Here the data set is composed of age of the house,the distance to the nearest station, 
+number of convenient stores, longitude,latitude and the estimated price per unit area"""
 
 #some exploratory data analysis
 data.describe()
