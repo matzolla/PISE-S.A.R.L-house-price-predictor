@@ -10,7 +10,7 @@ The program is subdivided into two part,
 5.  All have been done on  google colab
 6.  The dataset used is available in this link: [here](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
 ```
-### How it works
+#### How it works
 * If you want to train the model again, run the jupyter notebook to ubtain the weights for predictions
 * make sure the *app.py* is in thesame directory as the *notebook* 
 * Install all dependencies (`numpy,pandas,matplotlib, streamlit,pyngrok`)
