@@ -1,6 +1,5 @@
 # Allassan Tchangmena A Nken
 # import necessary librairies
-#
 import streamlit as st
 
 import numpy as np
